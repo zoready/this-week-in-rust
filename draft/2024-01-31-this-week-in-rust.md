@@ -36,6 +36,7 @@ and just ask the editors to select the category.
 ### Project/Tooling Updates
 
 ### Observations/Thoughts
+[Stateful Property Testing in Rust](https://blog.readyset.io/stateful-property-testing-in-rust/?utm_campaign=twir&utm_medium=email&utm_source=newsletter)
 
 ### Rust Walkthroughs
 
